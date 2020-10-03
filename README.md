@@ -1,5 +1,5 @@
 <!-- **iammatthewbirch1/iammatthewbirch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[![Header](http://iammatthewbirch.com/dist/img/github-header.png)](https://www.iammatthewbirch.github.io/)
+[![Header](http://iammatthewbirch.com/dist/img/github-header.png)](https://www.iammatthewbirch1.github.io/)
 
 ##### Hi, iammatthewbirch:
 
