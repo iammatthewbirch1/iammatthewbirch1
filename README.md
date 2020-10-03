@@ -5,8 +5,8 @@
 
 - 🎲 I have been working on online casino games for a while now
 - 🎵 I love music, it's a huge part of my life, you can find some of my stuff in links below
-- :speech_balloon: Let talk!
 - :mailbox: You can reach me with the links below...
+- :speech_balloon: Let talk!
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iammatthewbirch/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammatthewbirch@gmail.com)
