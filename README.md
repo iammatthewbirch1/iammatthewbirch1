@@ -50,7 +50,7 @@ const iammatthewbirch = {
      },
     'IGT Ltd': {
       role: 'JS Game Developer',
-      duration: 2
+      duration: 4
      },
     'Pulsar Healthcare': {
       role: 'JS Developer',
