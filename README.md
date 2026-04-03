@@ -42,7 +42,7 @@ const iammatthewbirch = {
   placesOfWork: {
     'Crucible Software': {
       role: 'JS Game Developer',
-      duration: 'current [3]'
+      duration: 'current [6]'
      },
     '32BRAINS': {
       role: 'Web Developer / Consultant',
