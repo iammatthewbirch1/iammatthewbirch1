@@ -41,8 +41,8 @@ const iammatthewbirch = {
   birth_location: 'Manchester, UK',
   placesOfWork: {
     'Crucible Software': {
-      role: 'JS Game Developer',
-      duration: 'current [6]'
+      role: 'Lead Game Developer (JS)',
+      duration: '6 (current)'
      },
     '32BRAINS': {
       role: 'Web Developer / Consultant',
